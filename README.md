@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Movileanu Emanuel</h1>
 <h3 align="center">A passionate Full-Stack Developer from Romania</h3>
 
+I'm an easy-going and patient person with a wide range of hobbies. I'm sociable, maintain great relationships with colleagues, and approach life with optimism and realism. I'm always ready to help others and don't hesitate to ask for assistance when needed, although I can be a bit stubborn. I'm known for being a strong team player. For instance, in a recent project, my positive and supportive attitude helped keep the team motivated, and I'm always there to lend a hand or seek help, contributing to our success.
+
 - 🔭 I’m currently working on [El-proyecte-grande](https://github.com/florinbighiu/El-proyecte-grande.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/EmanuelMovi](https://github.com/EmanuelMovi)
